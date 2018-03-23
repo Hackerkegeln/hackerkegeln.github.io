@@ -29,6 +29,8 @@ Seit Januar 2018 haben wir angefangen, Session-Ergebnisse in unser [GitHub-Repos
 Das Hackerkegeln findet einmal im Monat statt, meistens in der zweiten Woche, zwischen 18:00 und 23:00 Uhr. 
 Als Ort haben wir die Kegelbahn der DATEV in der Ecke Fürther Straße / Roonstraße gewählt.
 
+![Map](images/Hackerkegeln-Location.png)
+
 ![Street View](images/StreetView.png)
 
 ## Was muss ich tun, um dabei zu sein?
