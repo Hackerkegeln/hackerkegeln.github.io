@@ -44,4 +44,4 @@ und wollen keine *Facebook-Party* starten 😉.
 
 Die Teilnahme ist kostenlos (nicht umsonst 😉). Wir besorgen Beamer, Bier, Softdrinks und Pizza. 
 Finanziert werden die Meetups von Spenden der Teilnehmer. Wenn dir also das Meetup gefallen hat,
-darfst du gerne in unsere Spendenkasse was einwerfen. 
+darfst (aber musst nicht) du gerne in unsere Spendenkasse was einwerfen. 
