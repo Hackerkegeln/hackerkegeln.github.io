@@ -44,4 +44,8 @@ und wollen keine *Facebook-Party* starten 😉.
 
 Die Teilnahme ist kostenlos (nicht umsonst 😉). Wir besorgen Beamer, Bier, Softdrinks und Pizza. 
 Finanziert werden die Meetups von Spenden der Teilnehmer. Wenn dir also das Meetup gefallen hat,
-darfst du (aber musst nicht) gerne in unsere Spendenkasse was einwerfen. 
+darfst du (aber musst nicht) gerne in unsere Spendenkasse was einwerfen.
+
+## Ich finde euch super!
+
+Freut uns 😉. Dann tweete doch über uns unter [#Hackerkegeln](https://twitter.com/hashtag/Hackerkegeln?src=hash).
