@@ -22,7 +22,8 @@ Hier einige Beispiele unserer letzten Themen:
 * Angular
 * und vieles mehr!
 
-Seit Januar 2018 haben wir angefangen, Session-Ergebnisse in unser [GitHub-Repository](https://github.com/Hackerkegeln) hochzuladen.
+Seit Januar 2018 haben wir angefangen, Session-Ergebnisse 
+in unser [GitHub-Repository](https://github.com/Hackerkegeln) hochzuladen.
 
 ## Wo und wann findet es statt?
 
