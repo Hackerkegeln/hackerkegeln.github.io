@@ -38,7 +38,7 @@ oder anderweitig IT-Interessierter. Wenn du ein inhärentes Interesse hast, Neue
 Gleichgesinnten zu treffen, bist du herzlich willkommen!
 
 Die Terminorganisation läuft über den Slack-Workspace 
-[datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:) und wir laden dich in die Channel ein!
+[datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:info@hackerkegeln.de) und wir laden dich in die Channel ein!
 Es wäre nett, wenn du dich über Slack ankündigst. Wir haben schließlich nicht unbegrenzt Raum
 und wollen keine *Facebook-Party* starten 😉.
 
