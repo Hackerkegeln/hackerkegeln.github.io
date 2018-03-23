@@ -18,6 +18,9 @@ bundle install
 
 # runs the local web server
 bundle exec jekyll serve
+
+# or just run 
+./local-server.sh
 ```
 
 ## Documentation
