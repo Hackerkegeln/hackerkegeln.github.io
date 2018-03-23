@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Was ist Hackerkegeln?
 
-You can use the [editor on GitHub](https://github.com/Hackerkegeln/www/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hackerkegeln ist ein Meetup, welches von einigen enthusiastischen Leuten aus der Software Craftsmanship Community von der DATEV organisiert wird. Ziel ist es, in einer gemütlichen Athmosphäre DATEV-Interne und -Externe Kollegen miteinander zu vernetzen. Gleichzeitig bieten wir einen tollen Raum, um miteinander und voneinander zu lernen!
 
 ### Markdown
 
