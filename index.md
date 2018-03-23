@@ -20,7 +20,9 @@ Hier einige Beispiele unserer letzten Themen:
 * Software Analytics
 * Spieleentwicklung mit Unity
 * Angular
-* und, und, und
+* und vieles mehr!
+
+Seit Januar 2018 haben wir angefangen, Session-Ergebnisse in unser [GitHub-Repository](https://github.com/Hackerkegeln) hochzuladen.
 
 ## Wo und wann findet es statt?
 
@@ -36,12 +38,10 @@ oder anderweitig IT-Interessierter. Wenn du ein inhärentes Interesse hast, Neue
 Gleichgesinnten zu treffen, bist du herzlich willkommen!
 
 Die Terminorganisation läuft über den Slack-Workspace 
-[datev-scc.slack.com](http://datev-scc.slack.com). Kontaktiere 
-[Christoph](https://twitter.com/ChristophWelcz), [Latti](https://twitter.com/Latti_Nbg) oder 
-[Carsten](https://twitter.com/Headcrash74), und wir laden dich in die Channel ein!
+[datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:) und wir laden dich in die Channel ein!
 Es wäre nett, wenn du dich über Slack ankündigst. Wir haben schließlich nicht unbegrenzt Raum
 und wollen keine *Facebook-Party* starten 😉.
 
 Die Teilnahme ist kostenlos (nicht umsonst 😉). Wir besorgen Beamer, Bier, Softdrinks und Pizza. 
 Finanziert werden die Meetups von Spenden der Teilnehmer. Wenn dir also das Meetup gefallen hat,
-darfst (aber musst nicht) du gerne in unsere Spendenkasse was einwerfen. 
+darfst du (aber musst nicht) gerne in unsere Spendenkasse was einwerfen. 
