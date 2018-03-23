@@ -2,7 +2,7 @@
 
 Hackerkegeln ist ein Meetup, welches von einigen enthusiastischen Leuten aus der 
 [Software Craftsmanship Community von der DATEV](http://www.datev.de/scc) organisiert wird. 
-Ziel ist es, in einer gemütlichen Athmosphäre DATEV-Interne und -Externe Kollegen miteinander zu vernetzen. 
+Ziel ist es, in einer gemütlichen Atmosphäre DATEV-Interne und -Externe Kollegen miteinander zu vernetzen. 
 Gleichzeitig bieten wir einen tollen Raum, um miteinander und voneinander zu lernen!
 
 ![SCC-Logo](images/DATEV_SCC.jpg)
