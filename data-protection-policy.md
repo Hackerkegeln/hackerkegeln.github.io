@@ -4,14 +4,6 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ## Verantwortlicher
 
-Vorname, Name / Firma
-
-Straße Hausnr.
-
-PLZ Ort Land
-
-E-Mailadresse: ....@....de
-
 Link zum Impressum: [https://hackerkegeln.github.io/imprint.html](./imprint.html)
 
 ## Arten der verarbeiteten Daten:

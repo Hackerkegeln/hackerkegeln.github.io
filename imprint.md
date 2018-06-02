@@ -2,15 +2,12 @@
 
 Angaben gemäß § 5 TMG
 
-Vorname Nachname 
-
-Straße / Hausnummer
-
-90329 Ort
+- Christoph Welcz
+- Lachnerstr. 69
+- 91058 Erlangen
 
 # Kontakt: 
 
-Telefon: 0911-123456
-
-E-Mail: ich@du.de
+- Telefon: (+49)179-2234784
+- E-Mail: christoph (at) welcz.de
 
