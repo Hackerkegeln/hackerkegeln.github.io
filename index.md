@@ -16,7 +16,7 @@ Jeder Teilnehmer ist herzlich eingeladen, einen eigene Session mitzubringen!
 Hier einige Beispiele unserer letzten Themen:
 
 * PostgreSQL als NoSQL-DB verwenden
-* Refuctoring
+* Refactoring
 * Software Analytics
 * Spieleentwicklung mit Unity
 * Angular
