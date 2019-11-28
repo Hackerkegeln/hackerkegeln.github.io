@@ -16,7 +16,7 @@ Jeder Teilnehmer ist herzlich eingeladen, einen eigene Session mitzubringen!
 Hier einige Beispiele unserer letzten Themen:
 
 * PostgreSQL als NoSQL-DB verwenden
-* Refuctoring
+* [Refuctoring](https://twitter.com/codewisdom/status/946483866277163008)
 * Software Analytics
 * Spieleentwicklung mit Unity
 * Angular
