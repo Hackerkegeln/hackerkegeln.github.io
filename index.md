@@ -9,7 +9,7 @@ Gleichzeitig bieten wir einen tollen Raum, um miteinander und voneinander zu ler
 
 ## Welche Themen behandelt ihr?
 
-Grundsätzlich alles rund um Softwareentwicklung, Craftsmanship, Agile. Je nach Termin 
+Grundsätzlich alles rund um Softwareentwicklung, Craft, Agile. Je nach Termin 
 variieren wir zwischen Formaten wie Mob-Programming, Präsentation, Coding-Dojo, offene Diskussion.
 Jeder Teilnehmer ist herzlich eingeladen, einen eigene Session mitzubringen!
 
