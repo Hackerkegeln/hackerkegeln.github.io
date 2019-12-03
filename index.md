@@ -1,7 +1,7 @@
 ## Hackerkegeln, was ist das?
 
 Hackerkegeln ist ein Meetup, welches von einigen enthusiastischen Leuten aus der 
-[Software Craftsmanship Community von der DATEV](http://www.datev.de/scc) organisiert wird. 
+[Software Craft Community von der DATEV](http://www.datev.de/scc) organisiert wird. 
 Ziel ist es, in einer gemütlichen Atmosphäre DATEV-Interne und -Externe Kollegen miteinander zu vernetzen. 
 Gleichzeitig bieten wir einen tollen Raum, um miteinander und voneinander zu lernen!
 
@@ -41,7 +41,7 @@ oder anderweitig IT-Interessierter. Wenn du ein inhärentes Interesse hast, Neue
 Gleichgesinnten zu treffen, bist du herzlich willkommen!
 
 Die Terminorganisation läuft über den Slack-Workspace 
-[datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:info@hackerkegeln.de) und wir laden dich in die Channel ein!
+[datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:info@hackerkegeln.de) und wir laden dich in die Channel ein! Oder frage irgendjemand, der schon im Channel drin ist. Jeder darf neue Personen einladen!
 Es wäre nett, wenn du dich über Slack ankündigst. Wir haben schließlich nicht unbegrenzt Raum
 und wollen keine *Facebook-Party* starten 😉.
 
