@@ -40,9 +40,9 @@ Zu aller erst: jeder ist willkommen! Egal ob Software-Entwickler, Tester, Agile 
 oder anderweitig IT-Interessierter. Wenn du ein inhärentes Interesse hast, Neues zu lernen und dich mit 
 Gleichgesinnten zu treffen, bist du herzlich willkommen!
 
-Die Terminorganisation läuft über den Slack-Workspace 
+Neue Termine werden über [Meetup](https://www.meetup.com/de-DE/nurnberg-software-development-meetup-group/) angekündigt. Dort könnt Ihr Euch auch anmelden. Alternativ geht das auch weiterhin über unseren Slack-Workspace 
 [datev-scc.slack.com](http://datev-scc.slack.com). [Kontaktiere uns](mailto:info@hackerkegeln.de) und wir laden dich in die Channel ein! Oder frage irgendjemand, der schon im Channel drin ist. Jeder darf neue Personen einladen!
-Es wäre nett, wenn du dich über Slack ankündigst. Wir haben schließlich nicht unbegrenzt Raum
+Es wäre nett, wenn du dich ankündigst. Wir haben schließlich nicht unbegrenzt Raum
 und wollen keine *Facebook-Party* starten 😉.
 
 Die Teilnahme ist kostenlos (nicht umsonst 😉). Wir besorgen Beamer, Bier, Softdrinks und Pizza. 
